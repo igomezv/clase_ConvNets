@@ -2,7 +2,7 @@
 
 **Instructor:** Isidro Gómez-Vargas (ICF-UNAM)
 
-**Duración:** 1 horas (aprox)
+**Duración:** 1 hora (aprox)
 
 -----------------------------------
 ## Requisitos
