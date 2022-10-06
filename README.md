@@ -1,7 +1,6 @@
-# claseMuestra_dgtic_unam
+# Clase muestra de redes neuronales convolucionales
 
-
-**Instructor:** Dr. Isidro Gómez-Vargas (ICF-UNAM)
+**Instructor:** Isidro Gómez-Vargas (ICF-UNAM)
 
 **Duración:** 1 horas (aprox)
 
